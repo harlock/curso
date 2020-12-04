@@ -17,6 +17,12 @@
 
         <!-- Scripts -->
         <script src="{{ mix('js/app.js') }}" defer></script>
+
+        <script src="{{asset('js/highcharts.js')}}"></script>
+        <script src="{{asset('js/exporting.js')}}"></script>
+        <script src="{{asset('js/export-data.js')}}"></script>
+        <script src="{{asset('js/accessibility.js')}}"></script>
+
     </head>
     <body class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">
@@ -36,7 +42,7 @@
         </div>
 
         @stack('modals')
-
         @livewireScripts
+
     </body>
 </html>

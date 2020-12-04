@@ -21,6 +21,21 @@
                         {{ __('Ver grafica 1') }}
                     </x-jet-nav-link>
                 </div>
+                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                    <x-jet-nav-link href="{{ route('grafica_top_5') }}" :active="request()->routeIs('grafica_top_5')">
+                        {{ __('Top mas rentas') }}
+                    </x-jet-nav-link>
+                </div>
+                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                    <x-jet-nav-link href="{{ route('grafica_comentarios') }}" :active="request()->routeIs('grafica_comentarios')">
+                        {{ __('Cantidad de comentarios') }}
+                    </x-jet-nav-link>
+                </div>
+                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                    <x-jet-nav-link href="{{ route('grafica_final') }}" :active="request()->routeIs('grafica_final')">
+                        {{ __('Grafica Final') }}
+                    </x-jet-nav-link>
+                </div>
             </div>
 
             <!-- Settings Dropdown -->
