@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0129ca6-ddef-4bbe-a249-41927cc030a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/js/accessibility.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/export-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/exporting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/highcharts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/graphics/graphic_comments.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/graphics/graphic_final.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/graphics/graphic_top_5.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/GraphicController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/GraphicController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/graphics/grafica1.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/graphics/grafica1.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/navigation-dropdown.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/navigation-dropdown.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,30 +21,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
+            <state relative-caret-position="525">
               <caret line="25" column="98" selection-start-line="25" selection-start-column="98" selection-end-line="25" selection-end-column="98" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GraphicController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="91" column="22" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
-              <folding>
-                <element signature="e#142#797#0#PHP" expanded="true" />
-                <element signature="e#802#1564#0#PHP" expanded="true" />
-                <element signature="e#1593#2317#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="91">
+              <caret line="74" column="3" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/graphics/graphic_final.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="504">
               <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
             </state>
           </provider>
@@ -65,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/graphics/graphic_comments.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
+            <state relative-caret-position="819">
               <caret line="39" column="14" selection-end-line="43" />
             </state>
           </provider>
@@ -111,8 +94,8 @@
         <option value="$PROJECT_DIR$/resources/views/graphics/graphic_comments.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/navigation-dropdown.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/GraphicController.php" />
         <option value="$PROJECT_DIR$/resources/views/graphics/graphic_final.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/GraphicController.php" />
       </list>
     </option>
   </component>
@@ -236,8 +219,8 @@
       <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="188" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="69" />
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="778" />
@@ -250,7 +233,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,14 +254,13 @@
             <path>
               <item name="curso" type="b2602c69:ProjectViewProjectNode" />
               <item name="curso" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="curso" type="b2602c69:ProjectViewProjectNode" />
               <item name="curso" type="462c0819:PsiDirectoryNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="curso" type="b2602c69:ProjectViewProjectNode" />
@@ -319,6 +300,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,16 +341,16 @@
       <option name="presentableId" value="Default" />
       <updated>1607009119294</updated>
       <workItem from="1607009126266" duration="15224000" />
-      <workItem from="1607094600331" duration="11441000" />
+      <workItem from="1607094600331" duration="12143000" />
+      <workItem from="1607433436356" duration="832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26665000" />
+    <option name="totallyTimeSpent" value="28199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="22" width="1280" height="778" extended-state="6" />
-    <editor active="true" />
+    <frame x="69" y="22" width="1280" height="778" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24151857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -616,13 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="25" column="98" selection-start-line="25" selection-start-column="98" selection-end-line="25" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/navigation-dropdown.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -630,29 +605,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="98" selection-start-line="25" selection-start-column="98" selection-end-line="25" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/graphics/graphic_final.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/graphics/graphic_comments.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
+        <state relative-caret-position="819">
           <caret line="39" column="14" selection-end-line="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GraphicController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="91" column="22" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
-          <folding>
-            <element signature="e#142#797#0#PHP" expanded="true" />
-            <element signature="e#802#1564#0#PHP" expanded="true" />
-            <element signature="e#1593#2317#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/graphics/graphic_final.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        <state relative-caret-position="91">
+          <caret line="74" column="3" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
         </state>
       </provider>
     </entry>
