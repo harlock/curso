@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Route;
 | routes are loaded by the RouteServiceProvider within a group which
 | contains the "web" middleware group. Now create something great!
 |
-*/
+*/ 
 
 Route::get('/', function () {
     return view('welcome');
@@ -26,6 +26,17 @@ Route::get("grafica_comentarios", [\App\Http\Controllers\GraphicController::clas
 Route::get("grafica_final", [\App\Http\Controllers\GraphicController::class,'showGraphicFinal'])->name("grafica_final");
 
 
+
 Route::get("aldo", function(){
     return view("aldo.index");
 })->name("route_aldo");
+
+Route::get("leo",function(){
+    return view("leo.index");
+})->name("route_leo");
+
+
+Route::get("cesar",function(){
+	return view("cesar.index");
+})->name("route_cesar");
+
