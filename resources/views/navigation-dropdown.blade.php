@@ -36,6 +36,11 @@
                         {{ __('Grafica Final') }}
                     </x-jet-nav-link>
                 </div>
+                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                    <x-jet-nav-link href="{{ route('route_Ariel') }}" :active="request()->routeIs('rout_Ariel')">
+                        {{ __('Ruta de Ariel') }}
+                    </x-jet-nav-link>
+                </div>
             </div>
 
             <!-- Settings Dropdown -->
