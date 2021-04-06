@@ -41,6 +41,22 @@
                         {{ __('Ruta de Ariel') }}
                     </x-jet-nav-link>
                 </div>
+
+                    <x-jet-nav-link href="{{ route('route_leo') }}" :active="request()->routeIs('route_leo')">
+                        {{ __('Ruta de Leo') }}
+                    </x-jet-nav-link>
+                </div>
+                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                    <x-jet-nav-link href="{{ route('route_cesar') }}" :active="request()->routeIs('route_cesar')">
+                        {{ __('Ruta de cesar') }}
+                    </x-jet-nav-link>
+                </div>
+                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                    <x-jet-nav-link href="{{ route('route_aldo') }}" :active="request()->routeIs('route_aldo')">
+                        {{ __('Ruta de Aldo') }}
+                    </x-jet-nav-link>
+                </div>
+            
             </div>
 
             <!-- Settings Dropdown -->
